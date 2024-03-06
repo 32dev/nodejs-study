@@ -10,9 +10,7 @@ function test(pattern, element) {
     console.log(temp - element);
     return temp - element;
 }
-function test2() {
 
-}
 function solution(arr) {
     var answer = [];
     let temp = 0;
